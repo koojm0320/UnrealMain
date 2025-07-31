@@ -32,5 +32,6 @@
     <Text Include="Homework\Homework.txt">
       <Filter>Homework</Filter>
     </Text>
+    <Text Include="메모.txt" />
   </ItemGroup>
 </Project>

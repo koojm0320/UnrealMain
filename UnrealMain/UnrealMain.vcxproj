@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Practice.cpp" />
     <ClCompile Include="UnrealMain.cpp" />
   </ItemGroup>
   <ItemGroup>

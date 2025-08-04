@@ -54,3 +54,33 @@
 - 대전
 - 멀티 중심의 게임
 - 턴제 (잘만 만든다면 황금포폴, 작업량이 많아 빡셈)
+
+DX 11 파이프라인
+- Input Assembler
+ㄴ 정점(Vertax)나 인덱스 등의 입력 데이터를 GPU에 전달
+
+- Vertax Shader
+ㄴ 정점 위치 계산, 월드 / 뷰 / 프로젝션 변환 등 수행
+
+- Hull Shader
+ㄴ 테셀레이션을 위한 준비
+- Tessellator
+- Domain Shader
+- Geometry Shader
+- Rasterizer
+- Pixel Shader
+- Output Merger
+
+* 면접 팁 *
+- 아는 질문 나왔을 때는 자신있게
+- 모르는 질문이 나왔을 때는 최대한 잘 얼버무리기
+- 면접에서 물어본 질문은 한번쯤은 사용해보거나 본 개념이기 때문에 준비 잘 하기
+
+- 0804 -
+
+블루프린트 
+Construction Script
+
+BP에서 함수 안에 반복문을 실행하는 행위
+ㄴ 문제는 없음, 1번에 한해서
+ㄴ 반복문 중첩이 들어가면 코드(핀)가 굉장히 난잡해짐

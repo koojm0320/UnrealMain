@@ -11,6 +11,9 @@
     <Filter Include="Homework">
       <UniqueIdentifier>{84aaf3ee-53e2-4691-ad24-6c219b43b018}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Answer">
+      <UniqueIdentifier>{0b39bd5a-e6c6-48d8-9385-bb0ad03121bc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="UnrealMain.cpp">
@@ -28,5 +31,8 @@
       <Filter>Homework</Filter>
     </Text>
     <Text Include="메모.txt" />
+    <Text Include="Answer.txt">
+      <Filter>Answer</Filter>
+    </Text>
   </ItemGroup>
 </Project>

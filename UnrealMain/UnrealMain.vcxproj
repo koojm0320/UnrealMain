@@ -143,6 +143,7 @@
     <ClCompile Include="UnrealMain.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="Answer.txt" />
     <Text Include="Coding Interview\Question.txt" />
     <Text Include="Homework\Homework.txt" />
     <Text Include="메모.txt" />
